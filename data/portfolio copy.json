@@ -1,29 +1,23 @@
 {
-  "name": "Chetan",
+  "name": "Richard",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Richard Abdul Kareem",
+  "headerTaglineThree": "Web and Mobile Developer",
+  "headerTaglineFour": " based in Jakarta, Indonesia.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://https://github.com/richardkareem"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/richard-abdul-kareem-3a8598211/?originalSubdomain=id"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
-    },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "5", "title": "Email", "link": "mailto:risyadkarim26@gmail.com" }
   ],
   "projects": [
     {
@@ -69,29 +63,7 @@
       "url": "http://chetanverma.com/"
     }
   ],
-  "services": [
-    {
-      "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
-    },
-    {
-      "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
-    },
-    {
-      "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
-    },
-    {
-      "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
-    }
-  ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "An IT professional with a background from Politeknik Negeri Jakarta, I specialize in web and mobile interface development.I have successfully applied this expertise across various projects.Over the past six months, I have been employed at PT.Newfemme, where I have actively participated in projects demanding creativity and strong problem solving skills.The role required agility, necessitating quick learning of updated tech stacks and industry trends",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
@@ -124,3 +96,10 @@
     "others": ["Figma", "AdobeXD", "AWS"]
   }
 }
+
+ // {
+    //   "id": "3",
+    //   "title": "Twitter",
+    //   "link": "https://twitter.com/realchetanverma"
+    // },
+    // { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
